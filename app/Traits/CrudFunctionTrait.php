@@ -10,6 +10,5 @@ trait ModelsHelper
 
     public function createRecord(){
 
-
     }
 }
